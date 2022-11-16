@@ -1,4 +1,4 @@
-# umi4
+# umi4-web
 https://umijs.org/
 
 ## 项目初始化
